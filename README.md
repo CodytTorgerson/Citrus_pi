@@ -22,8 +22,9 @@ Step 2: Change the network config file to contain the wifi network information
               Backupnetowrk:
                 password: "Anotherverystronkpassword"
 ```
-Step 3: Boot up Raspberry pi while connected to ethernet
-Step 4: Login and change the root password
+
+Step 3: Boot up Raspberry pi while connected to ethernet.
+Step 4: Login and change the root password.
         use command su root to login and su root passwd
-Step 5: ```sudo ifconfig wlan0 up```
-Step 6: If not connected to WIFI then run ```sudo iwlist wlan0 scan``` and then ```sudo iwconfig wlan0 essid homenetwork key verystronkpassword```
+Step 5: ```sudo ifconfig wlan0 up```.
+Step 6: If not connected to WIFI then run ```sudo iwlist wlan0 scan``` and then ```sudo iwconfig wlan0 essid homenetwork key verystronkpassword```.
