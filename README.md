@@ -5,8 +5,8 @@ Repository containing all relevant code to my raspberry pi automated gardening s
 
 Step 1: Flash the raspberry pi with linux 20.04 lts.  
 Step 2: Change the network config file to contain the wifi network information
-```sh
         for example:
+```sh
         version: 2
         ethernets:
           eth0:
