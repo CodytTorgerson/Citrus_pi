@@ -1,7 +1,7 @@
 {
-  "name": "citrus_pi",
+  "name": "citrus_pi_js",
   "version": "1.0.0",
-  "description": "Vue Based webfronted used to control my Raspberry Pi based automated gardening system",
+  "description": "A vue based frontend for my Raspberry Pi based garden automation system",
   "author": "CodytTorgerson <Codyttorgerson@gmail.com>",
   "private": true,
   "scripts": {

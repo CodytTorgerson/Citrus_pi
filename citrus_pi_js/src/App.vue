@@ -5,6 +5,7 @@
 </template>
 
 <script>
+// TODO: Figure out the margin problem
 export default {
   name: 'App'
 }
@@ -15,9 +16,9 @@ export default {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
-  background: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0;
+  border: none;
+  float: none;
 }
 </style>

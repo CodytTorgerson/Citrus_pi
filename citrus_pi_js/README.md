@@ -1,6 +1,6 @@
-# citrus_pi
+# citrus_pi_js
 
-> Vue Based webfronted used to control my Raspberry Pi based automated gardening system
+> A vue based frontend for my Raspberry Pi based garden automation system
 
 ## Build Setup
 
